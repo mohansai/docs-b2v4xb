@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bia2pk.salamcuan.shop/sitemap.xml
